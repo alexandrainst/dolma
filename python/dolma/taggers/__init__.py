@@ -4,6 +4,7 @@ from . import (
     gopher,
     jigsaw,
     language,
+    language_da,
     length,
     pii,
     punctuation,
